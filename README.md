@@ -62,3 +62,7 @@ Example 1:
 .Text Color: #FF00FF
 .Shape: Square
 .Shape Color: #00FFFF
+
+## Video
+
+<video src="week%2010%20video.mp4" controls title="logo-generator"></video>
